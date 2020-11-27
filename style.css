@@ -162,6 +162,22 @@ h9 {
   margin-right: 30px;
   margin-top: 260px;
 }
+h10 {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+h11{
+   color:#5D931E;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 260px; 
+}
 .hero {
   position: absolute;
 }
